@@ -1,4 +1,7 @@
 {
+  "posts": [],
+  "comments": [],
+  "profile": "typicode",
   "user": [
     {"id": 1, "first_name": "Monty", "last_name": "Python", "zip": "PA38 4BL"}
   ]
