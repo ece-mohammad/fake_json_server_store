@@ -1,7 +1,7 @@
 {
   "posts": [],
   "comments": [],
-  "profile": "typicode",
+  "profile": {"name": "ece-mohammad"},
   "user": [
     {"id": 1, "first_name": "Monty", "last_name": "Python", "zip": "PA38 4BL"}
   ]
